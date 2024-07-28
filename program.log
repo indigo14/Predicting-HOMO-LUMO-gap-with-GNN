@@ -1,0 +1,36 @@
+2024-07-24 21:12:35,420 - Runner - INFO - Initializing Runner
+2024-07-24 21:12:35,421 - Runner - INFO - Preparing data
+2024-07-24 21:12:35,421 - Runner - INFO - Data preparation complete
+2024-07-24 21:12:35,422 - Runner - INFO - Starting Epoch 1
+2024-07-24 21:12:49,298 - Runner - INFO - Epoch 1 - Training loss: 0.0009, R2: 0.5890
+2024-07-24 21:12:50,079 - Runner - INFO - Epoch 1 - Validation loss: 0.0005, R2: 0.7703
+2024-07-24 21:12:50,079 - Runner - INFO - Starting Epoch 2
+2024-07-24 21:13:00,939 - Runner - INFO - Epoch 2 - Training loss: 0.0005, R2: 0.7747
+2024-07-24 21:13:01,676 - Runner - INFO - Epoch 2 - Validation loss: 0.0005, R2: 0.7828
+2024-07-24 21:13:01,677 - Runner - INFO - Starting Epoch 3
+2024-07-24 21:13:12,515 - Runner - INFO - Epoch 3 - Training loss: 0.0005, R2: 0.7629
+2024-07-24 21:13:13,241 - Runner - INFO - Epoch 3 - Validation loss: 0.0005, R2: 0.7997
+2024-07-24 21:13:13,241 - Runner - INFO - Starting Epoch 4
+2024-07-24 21:13:24,295 - Runner - INFO - Epoch 4 - Training loss: 0.0004, R2: 0.8113
+2024-07-24 21:13:25,032 - Runner - INFO - Epoch 4 - Validation loss: 0.0003, R2: 0.8624
+2024-07-24 21:13:25,033 - Runner - INFO - Starting Epoch 5
+2024-07-24 21:13:36,365 - Runner - INFO - Epoch 5 - Training loss: 0.0004, R2: 0.8127
+2024-07-24 21:13:37,116 - Runner - INFO - Epoch 5 - Validation loss: 0.0004, R2: 0.8410
+2024-07-26 19:25:10,885 - Runner - INFO - Initializing Runner
+2024-07-26 19:25:10,886 - Runner - INFO - Preparing data
+2024-07-26 19:25:10,886 - Runner - INFO - Data preparation complete
+2024-07-26 19:25:10,887 - Runner - INFO - Starting Epoch 1
+2024-07-26 19:25:34,138 - Runner - INFO - Epoch 1 - Training loss: 0.0019, R2: 0.1642
+2024-07-26 19:25:35,337 - Runner - INFO - Epoch 1 - Validation loss: 0.0006, R2: 0.7702
+2024-07-26 19:25:35,337 - Runner - INFO - Starting Epoch 2
+2024-07-26 19:25:48,480 - Runner - INFO - Epoch 2 - Training loss: 0.0006, R2: 0.7451
+2024-07-26 19:25:49,348 - Runner - INFO - Epoch 2 - Validation loss: 0.0005, R2: 0.7978
+2024-07-26 19:25:49,348 - Runner - INFO - Starting Epoch 3
+2024-07-26 19:26:02,360 - Runner - INFO - Epoch 3 - Training loss: 0.0005, R2: 0.7685
+2024-07-26 19:26:03,237 - Runner - INFO - Epoch 3 - Validation loss: 0.0009, R2: 0.6392
+2024-07-26 19:26:03,238 - Runner - INFO - Starting Epoch 4
+2024-07-26 19:26:22,137 - Runner - INFO - Epoch 4 - Training loss: 0.0005, R2: 0.7647
+2024-07-26 19:26:23,439 - Runner - INFO - Epoch 4 - Validation loss: 0.0004, R2: 0.8232
+2024-07-26 19:26:23,439 - Runner - INFO - Starting Epoch 5
+2024-07-26 19:26:39,450 - Runner - INFO - Epoch 5 - Training loss: 0.0005, R2: 0.7915
+2024-07-26 19:26:40,388 - Runner - INFO - Epoch 5 - Validation loss: 0.0006, R2: 0.7530

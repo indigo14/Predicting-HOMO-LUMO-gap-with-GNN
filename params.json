@@ -1,0 +1,1 @@
+{"dropout": 0.7512145577910623, "edge_hidden_feats": 195, "node_out_feats": 234, "num_layer_set2set": 1, "num_step_message_passing": 7, "num_step_set2set": 4, "node_in_feats" : 74, "edge_in_feats": 12}
